@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<sms>
+<row>
+    <to_phone>87654322</to_phone>
+    <message>hej hej hej</message>
+</row>
+<row>
+    <to_phone>12345678</to_phone>
+    <message>hej farvel hej</message>
+</row>
+</sms>
